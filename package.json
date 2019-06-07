@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "y",
+  "dependencies": {
+    "axois": "^1.0.0",
+    "gulp-imagemin": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "y"
+  ],
+  "author": "y",
+  "license": "ISC"
+}

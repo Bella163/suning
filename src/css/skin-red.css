@@ -1,0 +1,17 @@
+@charset "utf-8";
+.sf-navbar{ background: #ff6b6f;}
+.sf-allcate{ background: #ff6b6f;}
+.sf-allcate dd ul{ background: #ff6b6f;}
+.sf-navlist{ border-left: 1px solid #f5474c;}
+.sf-allcate dd ul li{ border-top: 1px solid #f5474c;}
+.sf-allcate dd ul a{ color: #fff; background: #ff6b6f;}
+.sf-allcate dd ul a:hover,.sf-allcate dd ul a.sf-sel{ background-color: #f5474c;}
+.sf-allcate li.sf-moreList{ background: #f5474c;}
+.sf-allcate li.sf-moreList a{ background: #f5474c; border-bottom: 1px solid #f5474c;}
+.sf-allcate li.sf-moreList a:hover{ background: #e0363a;}
+
+.sf-module h5.h5{ background: #ff6b6f;}
+
+.sf-floorRight li>a.sf-1{ background-position: left -452px;}
+.sf-floorRight li>a.sf-2{ background-position: left -487px;}
+.sf-floorRight li>a.sf-3{ background-position: left -522px;}
